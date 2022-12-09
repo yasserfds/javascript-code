@@ -1,3 +1,5 @@
+// Variables and Data types
+
 var life = 100; // this is the health bar number
 
 // 90
