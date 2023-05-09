@@ -14,4 +14,8 @@ var checkOut = false; // this is a boolean
 
 var box = null;
 
+var player = true;
+
+var alpha;
+
 console.log(box);
